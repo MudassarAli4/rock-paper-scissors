@@ -1,0 +1,114 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #548687;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    color: #fff;
+}
+
+.logo {
+    width: 50px;
+    height: auto;
+}
+
+.game-container {
+    text-align: center;
+    background: #333;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 300px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.choices {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.choice {
+    font-size: 2rem;
+    margin: 0 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #fff;
+    /* color: #333; */
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.choice:hover {
+    background-color: #000;
+    transform: scale(1.2);
+}
+
+.result-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.result-box {
+    background: #444;
+    padding: 10px;
+    margin: 5px 0;
+    width: 100%;
+    border-radius: 5px;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.result-box p {
+    margin: 0;
+    font-size: 1.2rem;
+}
+
+#result {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.result-box.win {
+    background-color: #4caf50;
+    color: #fff;
+    transform: scale(1.1);
+}
+
+.result-box.lose {
+    background-color: #f44336;
+    color: #fff;
+    transform: scale(1.1);
+}
+
+.result-box.draw {
+    background-color: #ff9800;
+    color: #fff;
+    transform: scale(1.1);
+}
+
+#reset-button {
+    background-color: #666;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s, transform 0.3s;
+    margin-top: 20px;
+}
+
+#reset-button:hover {
+    background-color: #000;
+}
+
+#reset-button:active {
+    transform: scale(0.9);
+}
