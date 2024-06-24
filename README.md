@@ -1,4 +1,4 @@
-# Rock Paper Scissors Game
+![Screenshot 2024-06-24 211531](https://github.com/MudassarAli4/rock-paper-scissors/assets/96912402/5d42a2db-4b52-45f6-a250-3799e67e314f)# Rock Paper Scissors Game
 
 This is a simple Rock Paper Scissors game implemented using HTML, CSS, and JavaScript.
 
@@ -12,8 +12,11 @@ This is a simple Rock Paper Scissors game implemented using HTML, CSS, and JavaS
 
 ## Screenshots and Video
 
-- ![Game Screenshot](screenshot.png)
-- [Gameplay Video](video-link)
+- ![Screenshot 2024-06-24 211531](https://github.com/MudassarAli4/rock-paper-scissors/assets/96912402/41724f5c-72d0-40f7-b98a-bf7083b45c6c)
+
+- https://github.com/MudassarAli4/rock-paper-scissors/assets/96912402/d6614ba8-4656-4ac8-8a01-fa57b9878ec2
+
+
 
 ## Technologies Used
 
