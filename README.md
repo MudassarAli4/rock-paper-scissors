@@ -1,4 +1,4 @@
-![Screenshot 2024-06-24 211531](https://github.com/MudassarAli4/rock-paper-scissors/assets/96912402/5d42a2db-4b52-45f6-a250-3799e67e314f)# Rock Paper Scissors Game
+# Rock Paper Scissors Game
 
 This is a simple Rock Paper Scissors game implemented using HTML, CSS, and JavaScript.
 
