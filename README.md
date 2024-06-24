@@ -26,6 +26,6 @@ This is a simple Rock Paper Scissors game implemented using HTML, CSS, and JavaS
 
 ## Author
 
-- Your Name
+- Mudassar Ali
 
 Feel free to contribute and enhance the game!
