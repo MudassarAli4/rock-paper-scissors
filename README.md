@@ -10,6 +10,9 @@ This is a simple Rock Paper Scissors game implemented using HTML, CSS, and JavaS
 - Your and computer's scores are displayed on the screen.
 - Use the `Reset` button to reset the scores and start a new game.
 
+## Demo
+https://mudassarali4.github.io/rock-paper-scissors/
+
 ## Screenshots and Video
 
 - ![Screenshot 2024-06-24 211531](https://github.com/MudassarAli4/rock-paper-scissors/assets/96912402/41724f5c-72d0-40f7-b98a-bf7083b45c6c)
